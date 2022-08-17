@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cils0012/new_rnn_pose_20211215/data/walk_poses/lstm_model.ckpt"
+all_model_checkpoint_paths: "/home/cils0012/new_rnn_pose_20211215/data/walk_poses/lstm_model.ckpt"

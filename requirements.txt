@@ -1,0 +1,14 @@
+argparse
+dill
+xlrd
+xlwt
+fire
+matplotlib
+psutil
+pycocotools
+sklearn
+requests
+scikit-image
+slidingwindow
+tqdm
+git+https://github.com/ppwwyyxx/tensorpack.git
